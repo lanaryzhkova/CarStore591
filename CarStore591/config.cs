@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace CarStore591
 {
     static class Config
     {
-        public static readonly string TOKEN = "2047752392:AAHhj4sBh2eD24-xTYqvdx4PtyppoMK5knQ";
+        public static readonly string TOKEN = "";
         public static string[] Cars = { "1. Porsche 911, 5.625.000 RUB",
                     "2. Mini Clubman, 1.648.000",
                     "3. BMW 6 серии, 2.049.000 RUB",
